@@ -1,5 +1,5 @@
 
-# Hello World!, I'm Soumyadeep, a developer from India  👋🏼:
+# Hello World!, I'm Soumyadip, a developer from India  👋🏼:
 
 
 <h3 align="center">Welcome to my GitHub profile </h3>
