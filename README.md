@@ -7,7 +7,7 @@
 <img align="right" alt="GIF" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="350px" height="230" />
 
 - 🔭 I’m pursuing B.Tech in CSE from IEM, Kolkata
-- 👨🏻‍💻 I’m currently working on <a href="https://github.com/">Chatbot project</a>
+- 👨🏻‍💻 I’m currently working on Gemini chatbot project.<a href="https://github.com/SoumyadipBhunia/Gemini-Chatbot">Chatbot project</a>
 - 🌱 I’m currently learning backend dev.
 - 🤔 I’m not looking for help with anything rn
 - ⚡ Fun fact: I prefer tea over coffee.
